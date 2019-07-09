@@ -1,4 +1,14 @@
-# Koa Playground
+## Install deps
+
+`npm install`
+
+## Running
+
+`npm start` - Starts the server
+`npm test` - Calls the endpoints for testing
+
+## Metrics
+
 | Question | Answer|
 | ------------- | ------------- |
 |Stars| 26.6k|
